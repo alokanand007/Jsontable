@@ -1,8 +1,6 @@
-"homepage": "https://alokanand007.github.io/table_app",
-
-
 {
-  "name": "table_app",
+  "homepage": "https://alokanand007.github.io/Jsontable",
+  "name": "jsontable",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
